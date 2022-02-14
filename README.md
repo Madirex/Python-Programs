@@ -16,7 +16,7 @@ Algunos programas simples creados en Python:
   6. Tabla pivot con la tasa de supervivencia en función del billete
 
 <p align="center">
-  <img src="https://i.imgur.com/dQtDJ8G.png"/>
+  <img src="https://i.imgur.com/AST1uEf.png"/>
 </p>
 
 <p align="center">
