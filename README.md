@@ -1,8 +1,12 @@
 # Programas en Python
 Algunos programas simples creados en Python:
+
 📹 Webcam con cv2 que detecta ojos y cara, con filtro de escala de grises (tanto natural como omitiendo el color rojo).
+
 🧮 Calculadora simple utilizando Kivy para desarrollar la interfaz gráfica.
+
 🧑🏻‍🤝‍🧑🏻API REST de usuarios simple hecha con Flask.
+
 📃Procesador CSV utilizando Pandas que lee un documento del Titanic y realiza las siguientes acciones:
   1. Carga sus datos
   2. Revisa las filas
