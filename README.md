@@ -1,7 +1,7 @@
 # Programas en Python
 Algunos programas simples creados en Python:
 
-📹 Webcam con cv2 que detecta ojos y cara, con filtro de escala de grises (tanto natural como omitiendo el color rojo).
+📹 Webcam con cv2 (OpenCV) que detecta ojos y cara, con filtro de escala de grises (tanto natural como omitiendo el color rojo).
 
 🧮 Calculadora simple utilizando Kivy para desarrollar la interfaz gráfica.
 
@@ -15,6 +15,9 @@ Algunos programas simples creados en Python:
   5. Calcula el número de pasajeros según el tipo de billete
   6. Tabla pivot con la tasa de supervivencia en función del billete
 
+<p align="center">
+  <img src="https://i.imgur.com/dQtDJ8G.png"/>
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/2tqUyge.png"/>
